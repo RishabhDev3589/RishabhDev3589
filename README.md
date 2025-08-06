@@ -33,17 +33,52 @@
 
 ---
 
-### 📈 **GitHub Stats & Achievements:**
+### 1️⃣ **Popcorn Bill Generating System** 🍿
+**Technologies Used**: HTML, CSS, JavaScript
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhDev9379&show_icons=true&hide=prs&count_private=true&theme=default&hide_title=true" alt="Rishabh Dev's GitHub Stats"/>
-</p>
+A simple web-based **bill generating system** for popcorn orders. This project allows users to select the type of popcorn, enter the quantity, and generate an invoice with the total cost.
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhDev9379&theme=default" alt="Rishabh Dev's Streak"/>
-</p>
+- **Key Features**:
+  - Dynamic bill calculation
+  - User-friendly interface for popcorn order
+  - Real-time bill generation(Included GST Calculation)
+    
+---
+
+### 2️⃣ **MHTCET Engineering Admission Criteria Checker** 🎓
+**Technologies Used**: Java (Console Application)
+
+This is a console-based **MHTCET Engineering Admission Criteria Checker**. It allows users to check their eligibility for MHTCET Engineering admission based on their marks in the entrance exam and board exams.
+
+- **Key Features**:
+  - Checks eligibility based on MHTCET and board marks
+  - Console-based interaction
+  - Simple, clean design
+
+##### Sample Output:
+Enter MHTCET Score: 150
+Enter Sum of your 12th Board Marks of Physics,Chemistry & Mathematics (out of 300): 137
+Enter your Category(General,OBC,SC,ST):General
+You are eligible for MHTCET Engineering Admission!
 
 ---
+
+### 3️⃣ **Student Result Generation & Management System** 📚
+**Technologies Used**: Java (Console Application)
+
+This console application helps in generating **student results** and managing **student data**. Users can add students, view their results, and store information like roll number and marks.
+
+- **Key Features**:
+  - Generates student results based on marks
+  - Stores student details such as name, roll number, and marks
+  - Manages multiple student records efficiently
+
+## 🛠️ **Technologies & Tools I Use**
+
+- **Web Development**: HTML5, CSS3, JavaScript
+- **Backend Development**: Java, Python, Django(In Future)
+- **Others**: Node.js, Express.js, Firebase (will add in future)
+
 
 ### 💬 **Let's Connect!**
 
