@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rishabh Jha 👋</h1>
-<h3 align="center">Full-Stack Developer | Web & App Enthusiast | Java & Python Expert</h3>
+<h3 align="center">Full-Stack Developer | Web & App Enthusiast | Future Java & Python Developer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rishabhDev9379&label=Profile%20views&color=0e75b6&style=flat" alt="rishabhDev9379" />
@@ -81,10 +81,12 @@ This console application helps in generating **student results** and managing **
 - **Backend Development**: Java, Python, Django(In Future)
 - **Others**: Node.js, Express.js, Firebase (will add in future)
 
+---
 
 ### 💬 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jhabmnm8)    
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/rishabhDev9379)
+
+Connect with Me in Linkedin:-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-jhabmnm8)  
+Connect with Me in My Github Account:-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/rishabhDev9379)
 
 
