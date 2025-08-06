@@ -56,10 +56,10 @@ This is a console-based **MHTCET Engineering Admission Criteria Checker**. It al
   - Simple, clean design
 
 ##### Sample Output:
-Enter MHTCET Score: 150
-Enter Sum of your 12th Board Marks of Physics,Chemistry & Mathematics (out of 300): 137
-Enter your Category(General,OBC,SC,ST):General
-You are eligible for MHTCET Engineering Admission!
+- Enter MHTCET Score: 150
+- Enter Sum of your 12th Board Marks of Physics,Chemistry & Mathematics (out of 300): 137
+- Enter your Category(General,OBC,SC,ST):General
+- You are eligible for MHTCET Engineering Admission!
 
 ---
 
@@ -72,6 +72,8 @@ This console application helps in generating **student results** and managing **
   - Generates student results based on marks
   - Stores student details such as name, roll number, and marks
   - Manages multiple student records efficiently
+
+---
 
 ## 🛠️ **Technologies & Tools I Use**
 
