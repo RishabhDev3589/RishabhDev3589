@@ -32,6 +32,7 @@
 </p>
 
 ---
+### 👨‍💻 Projects:
 
 ### 1️⃣ **Popcorn Bill Generating System** 🍿
 **Technologies Used**: HTML, CSS, JavaScript
