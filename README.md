@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Rishabh Jha 👋</h1>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabhDev3589&show_icons=true)
 <h3 align="center">Full-Stack Developer | Web & App Enthusiast | Future Java & Python Developer </h3>
 
 <p align="center">
